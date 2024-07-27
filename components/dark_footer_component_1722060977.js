@@ -19,9 +19,9 @@ Vue.component("dark_footer_component_1722060977", {
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="FOOTER_COMPONENT_1_FOOTER_TEXT_1"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="Blockchain Data Analytics"> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
                         </div>
-                        <div id="footer-copyright" class="text-sm" :class="textColorSecondary">&copy; FOOTER_COMPONENT_1_FOOTER_TEXT_1 <span :class="textColorTertiary">-</span> All rights reserved.</div>
+                        <div id="footer-copyright" class="text-sm" :class="textColorSecondary">&copy; Blockchain Data Analytics <span :class="textColorTertiary">-</span> All rights reserved.</div>
                     </div>
                     <!-- Social links -->
                     <ul id="footer-social-links" class="flex">
@@ -34,34 +34,34 @@ Vue.component("dark_footer_component_1722060977", {
  
             <!-- 2nd block -->
             <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_1_TITLE_TEXT</h6>
+                <h6 id="footer-block-2-title" class="text-sm font-medium mb-2" :class="textColorPrimary">About</h6>
                 <ul id="footer-block-2-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_1_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-2-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Our platform provides powerful analytics tools to help you understand and leverage data from blockchain networks.</a></li>
+                    <li><a id="footer-block-2-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Monitor transactions, track activity, and identify trends across major blockchains.</a></li>
+                    <li><a id="footer-block-2-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">With our user-friendly dashboards and customizable reports, you'll have the data you need at your fingertips.</a></li>
+                    <li><a id="footer-block-2-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Unlock the true potential of blockchain data with our cutting-edge solutions.</a></li>
                 </ul>
             </div>
  
             <!-- 3rd block -->
             <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_2_TITLE_TEXT</h6>
+                <h6 id="footer-block-3-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Products</h6>
                 <ul id="footer-block-3-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_2_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-3-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Transaction Monitoring</a></li>
+                    <li><a id="footer-block-3-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Network Analytics</a></li>
+                    <li><a id="footer-block-3-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Data Visualization</a></li>
+                    <li><a id="footer-block-3-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Blockchain Indexing</a></li>
                 </ul>
             </div>
  
             <!-- 4th block -->
             <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2" :class="textColorPrimary">FOOTER_COMPONENT_3_TITLE_TEXT</h6>
+                <h6 id="footer-block-4-title" class="text-sm font-medium mb-2" :class="textColorPrimary">Resources</h6>
                 <ul id="footer-block-4-list" class="text-sm space-y-2">
-                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_1</a></li>
-                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_2</a></li>
-                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_3</a></li>
-                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">FOOTER_COMPONENT_3_BODY_TEXT_4</a></li>
+                    <li><a id="footer-block-4-link-1" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Blog</a></li>
+                    <li><a id="footer-block-4-link-2" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Documentation</a></li>
+                    <li><a id="footer-block-4-link-3" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">API Reference</a></li>
+                    <li><a id="footer-block-4-link-4" class="transition duration-150 ease-in-out" :class="[textColorSecondary, hoverTextColorSecondary]" href="#0">Case Studies</a></li>
                 </ul>
             </div>
         </div>
