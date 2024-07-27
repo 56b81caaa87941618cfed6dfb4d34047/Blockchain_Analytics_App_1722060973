@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Certainly, adding a navbar with navlinks for home, about and contact.",
+        "message_id": "guest27072024061759",
+        "timestamp": "27072024061801",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a navbar with the navlink home, about and contact",
         "message_id": "guest27072024061759",
