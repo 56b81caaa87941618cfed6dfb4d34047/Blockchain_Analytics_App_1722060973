@@ -67,7 +67,7 @@ Vue.component("dark_footer_component_1722060977", {
         </div>
 
 <div class="flex-1">
-    <button class="bg-purple-500 text-white font-bold py-2 px-4 rounded shadow-lg m-20">Hello World</button>
+<button class="bg-purple-500 text-white font-bold py-2 px-4 rounded shadow-lg m-20 hover:bg-purple-600">Hello World</button>
 </div>
 
 </footer>`,
