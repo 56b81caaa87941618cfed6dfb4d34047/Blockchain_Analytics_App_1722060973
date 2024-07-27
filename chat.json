@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest27072024062344",
+        "timestamp": "27072024062344",
+        "component_file_name": "dark_footer_component_1722060977",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the screen or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"Do you have a specific color scheme or design theme in mind for the navbar?\", \"option1\": \"Yes, I will provide the color scheme and design preferences\", \"option2\": \"No, I would like design recommendations\"}], \"input_token_count\": 266, \"output_token_count\": 109, \"time_taken\": \"0:00:02.364406\"}",
         "message_id": "guest27072024061759",
