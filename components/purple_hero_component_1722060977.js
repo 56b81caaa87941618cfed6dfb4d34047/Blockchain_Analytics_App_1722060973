@@ -6,14 +6,14 @@
 
 Vue.component("purple_hero_component_1722060977", {
     template: `
-    <section id="hero-section-container">
-        <nav class="bg-purple-600 p-4 mb-8">
+    <section id="hero-section-container" class="bg-gradient-to-r from-purple-900 to-blue-900">
+        <nav class="bg-purple-800 bg-opacity-50 p-6 mb-8 shadow-lg">
             <div class="max-w-6xl mx-auto flex justify-between items-center">
                 <div class="text-white font-bold text-xl">Logo</div>
-                <div class="space-x-4">
-                    <a href="#" class="text-white hover:text-purple-200">Home</a>
-                    <a href="#" class="text-white hover:text-purple-200">About</a>
-                    <a href="#" class="text-white hover:text-purple-200">Contact</a>
+                <div class="space-x-6">
+                    <a href="#" class="text-purple-200 hover:text-white transition duration-300">Home</a>
+                    <a href="#" class="text-purple-200 hover:text-white transition duration-300">About</a>
+                    <a href="#" class="text-purple-200 hover:text-white transition duration-300">Contact</a>
                 </div>
             </div>
         </nav>
